@@ -1,7 +1,7 @@
 # socket-multicam
 Preview and record your own and a remote Android camera
 
-My first Android app. Created for university (Mobile Applications course)
+My first Android app. Created for university (Mobile Applications course, HTW Berlin)
 
 Features:
 - use the app either as server or client
