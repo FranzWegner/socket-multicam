@@ -17,4 +17,4 @@ Technologies used:
 - ImageReader
 - WiFiP2pManager
 
-The biggest thing I learned from doing this project is that Camera2 is a pain in the ass to work with and unnecessary complicated even for simple uses like previewing the camera.
+The biggest thing I learned from doing this project is that Camera2 is a pain in the ass to work with and unnecessary complicated even for simple tasks like previewing the camera.
