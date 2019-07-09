@@ -1,0 +1,8 @@
+Reihenfolge
+
+Poco: Server starten
+S5: Connect to Server
+S5: Start Camera
+Poco: Start Camera
+Poco: Start Recording
+Poco: Stop Recording
