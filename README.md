@@ -6,7 +6,7 @@ My first Android app. Created for university (Mobile Applications course, HTW Be
 Features:
 - use the app either as server or client
 - preview your own camera
-- preview a remote Android camera simultaneously (connected over Internet, local network or WiFi Direct)
+- preview/stream a remote Android camera simultaneously (connected over Internet, local network or WiFi Direct)
 - record both cameras (when server initiates recording, the video recording will take place on each device locally)
 - generate a EDL cut list from tapping on the camera previews (similiar to Multicam editing) for later use in video editing software like Vegas Pro
 
